@@ -19,9 +19,9 @@ This file contains two classes:
 SimpleConfigParser is exactly what the name implies. It can be used for 
 general purpose configuration file processing. It has the ability to parse
 configuration files that contain multiple "keys" or configuration options that
-have the same name (nagios.cfg, for example).
+have the same name (nagios.cfg, for example.)
 
-NagiosStatusParser is also exactly waht the name implies. It is used solely
+NagiosStatusParser is also exactly what the name implies. It is used solely
 for parsing Nagios' status.dat file and returning Nagios status data in json
 format.
 
